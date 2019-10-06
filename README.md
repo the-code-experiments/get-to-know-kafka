@@ -126,3 +126,10 @@ Learn the basics of Kafka with different language implementations
     ```
     ./bin/kafka-consumer-groups.sh --bootstrap-server 127.0.0.1:9092 --group <group_name> --reset-offsets --to-earliest --execute --topic <topic_name>
     ```
+
+## Language implementations
+
+- [x] Java
+- [ ] Python
+- [ ] Golang
+- [ ] JavaScript
